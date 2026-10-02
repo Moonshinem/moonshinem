@@ -3,6 +3,9 @@
   <a href="https://t.me/amtttq" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-4680C2?style=for-the-badge&logo=Telegram&logoColor=white" />
   </a>
+  <a href="https://vk.ru/moonshinemacriver target="_blank">
+    <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=VK&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
